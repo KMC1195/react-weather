@@ -8,5 +8,6 @@
   body {
     font-family: "Poppins", sans-serif;
     background: url("../../public//backgrounds/thunder.jpeg");
+    color: white;
   }
 }
