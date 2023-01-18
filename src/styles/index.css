@@ -7,7 +7,7 @@
 @layer base {
   body {
     font-family: "Poppins", sans-serif;
-    background: url("../../public//backgrounds/thunder.jpeg");
+    background: url("../../public//backgrounds/bg2.jpeg");
     color: white;
   }
 }
