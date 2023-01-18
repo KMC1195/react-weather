@@ -25,7 +25,7 @@ const WeatherList = ({ data }) => {
     </div>
     <div className="border-solid border-4 border-white rounded-lg p-2 sm:w-[49%] w-full mb-3">
       <h3 className="text-3xl">Precip</h3>
-      <span>M,: {data.current.precip_mm}</span>
+      <span className="block">mm: {data.current.precip_mm}</span>
       <span>In: {data.current.precip_in}</span>
     </div>
   </div>);

@@ -10,4 +10,14 @@
     background: url("../../public//backgrounds/bg2.jpeg");
     color: white;
   }
+  *::-webkit-scrollbar {
+    width: 15px;
+  }
+  *::-webkit-scrollbar-track {
+    background:rgb(59,64, 104);
+  }
+  *::-webkit-scrollbar-thumb {
+    background: white;
+    border-radius: 20px;
+  }
 }
