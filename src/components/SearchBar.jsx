@@ -10,7 +10,7 @@ const SearchBar = () => {
   return (
     <div>
     <div className="flex justify-center text-black">
-      <span className="text-white text-1xl mt-4 mx-3 text-center">Polish version</span>
+      <span className="text-white text-1xl mt-6 mx-3 text-center">Polish version</span>
       <input
         type="text"
         placeholder="Enter city here"
